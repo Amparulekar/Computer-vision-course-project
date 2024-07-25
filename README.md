@@ -1,4 +1,4 @@
-# Computer-vision-course-project
+# Jigsaw puzzle solver using Computer Vision Techniques
 
 Review Assignment Due Date
 Group Screen Name: question
